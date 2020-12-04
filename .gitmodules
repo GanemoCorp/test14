@@ -1,0 +1,4 @@
+[submodule "odoo_contact"]
+	path = odoo_contact
+	url = git@github.com:odoopartners/odoo_contact.git
+	branch = 14-dev
